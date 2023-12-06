@@ -1,0 +1,7 @@
+C:\Users\itspi\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\FirstProject.dll.config
+C:\Users\itspi\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\FirstProject.dll
+C:\Users\itspi\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\FirstProject.pdb
+C:\Users\itspi\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\FirstProject.csproj.AssemblyReference.cache
+C:\Users\itspi\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\itspi\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\FirstProject.dll
+C:\Users\itspi\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\FirstProject.pdb

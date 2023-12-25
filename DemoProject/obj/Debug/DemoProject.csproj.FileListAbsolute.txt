@@ -1,0 +1,7 @@
+C:\Users\itspi\Source\Repos\itspiyush78\C-Sharp\ConsoleApp3\DemoProject\bin\Debug\DemoProject.exe.config
+C:\Users\itspi\Source\Repos\itspiyush78\C-Sharp\ConsoleApp3\DemoProject\bin\Debug\DemoProject.exe
+C:\Users\itspi\Source\Repos\itspiyush78\C-Sharp\ConsoleApp3\DemoProject\bin\Debug\DemoProject.pdb
+C:\Users\itspi\Source\Repos\itspiyush78\C-Sharp\ConsoleApp3\DemoProject\obj\Debug\DemoProject.csproj.AssemblyReference.cache
+C:\Users\itspi\Source\Repos\itspiyush78\C-Sharp\ConsoleApp3\DemoProject\obj\Debug\DemoProject.csproj.CoreCompileInputs.cache
+C:\Users\itspi\Source\Repos\itspiyush78\C-Sharp\ConsoleApp3\DemoProject\obj\Debug\DemoProject.exe
+C:\Users\itspi\Source\Repos\itspiyush78\C-Sharp\ConsoleApp3\DemoProject\obj\Debug\DemoProject.pdb

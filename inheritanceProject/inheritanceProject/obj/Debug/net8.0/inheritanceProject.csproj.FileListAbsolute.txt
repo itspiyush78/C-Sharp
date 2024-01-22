@@ -1,0 +1,15 @@
+D:\C-Sharp\inheritanceProject\inheritanceProject\bin\Debug\net8.0\inheritanceProject.exe
+D:\C-Sharp\inheritanceProject\inheritanceProject\bin\Debug\net8.0\inheritanceProject.deps.json
+D:\C-Sharp\inheritanceProject\inheritanceProject\bin\Debug\net8.0\inheritanceProject.runtimeconfig.json
+D:\C-Sharp\inheritanceProject\inheritanceProject\bin\Debug\net8.0\inheritanceProject.dll
+D:\C-Sharp\inheritanceProject\inheritanceProject\bin\Debug\net8.0\inheritanceProject.pdb
+D:\C-Sharp\inheritanceProject\inheritanceProject\obj\Debug\net8.0\inheritanceProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp\inheritanceProject\inheritanceProject\obj\Debug\net8.0\inheritanceProject.AssemblyInfoInputs.cache
+D:\C-Sharp\inheritanceProject\inheritanceProject\obj\Debug\net8.0\inheritanceProject.AssemblyInfo.cs
+D:\C-Sharp\inheritanceProject\inheritanceProject\obj\Debug\net8.0\inheritanceProject.csproj.CoreCompileInputs.cache
+D:\C-Sharp\inheritanceProject\inheritanceProject\obj\Debug\net8.0\inheritanceProject.sourcelink.json
+D:\C-Sharp\inheritanceProject\inheritanceProject\obj\Debug\net8.0\inheritanceProject.dll
+D:\C-Sharp\inheritanceProject\inheritanceProject\obj\Debug\net8.0\refint\inheritanceProject.dll
+D:\C-Sharp\inheritanceProject\inheritanceProject\obj\Debug\net8.0\inheritanceProject.pdb
+D:\C-Sharp\inheritanceProject\inheritanceProject\obj\Debug\net8.0\inheritanceProject.genruntimeconfig.cache
+D:\C-Sharp\inheritanceProject\inheritanceProject\obj\Debug\net8.0\ref\inheritanceProject.dll

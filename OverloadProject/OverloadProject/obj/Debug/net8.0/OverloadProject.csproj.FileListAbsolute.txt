@@ -1,0 +1,15 @@
+D:\CODING\C-Sharp\OverloadProject\OverloadProject\bin\Debug\net8.0\OverloadProject.exe
+D:\CODING\C-Sharp\OverloadProject\OverloadProject\bin\Debug\net8.0\OverloadProject.deps.json
+D:\CODING\C-Sharp\OverloadProject\OverloadProject\bin\Debug\net8.0\OverloadProject.runtimeconfig.json
+D:\CODING\C-Sharp\OverloadProject\OverloadProject\bin\Debug\net8.0\OverloadProject.dll
+D:\CODING\C-Sharp\OverloadProject\OverloadProject\bin\Debug\net8.0\OverloadProject.pdb
+D:\CODING\C-Sharp\OverloadProject\OverloadProject\obj\Debug\net8.0\OverloadProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODING\C-Sharp\OverloadProject\OverloadProject\obj\Debug\net8.0\OverloadProject.AssemblyInfoInputs.cache
+D:\CODING\C-Sharp\OverloadProject\OverloadProject\obj\Debug\net8.0\OverloadProject.AssemblyInfo.cs
+D:\CODING\C-Sharp\OverloadProject\OverloadProject\obj\Debug\net8.0\OverloadProject.csproj.CoreCompileInputs.cache
+D:\CODING\C-Sharp\OverloadProject\OverloadProject\obj\Debug\net8.0\OverloadProject.sourcelink.json
+D:\CODING\C-Sharp\OverloadProject\OverloadProject\obj\Debug\net8.0\OverloadProject.dll
+D:\CODING\C-Sharp\OverloadProject\OverloadProject\obj\Debug\net8.0\refint\OverloadProject.dll
+D:\CODING\C-Sharp\OverloadProject\OverloadProject\obj\Debug\net8.0\OverloadProject.pdb
+D:\CODING\C-Sharp\OverloadProject\OverloadProject\obj\Debug\net8.0\OverloadProject.genruntimeconfig.cache
+D:\CODING\C-Sharp\OverloadProject\OverloadProject\obj\Debug\net8.0\ref\OverloadProject.dll
